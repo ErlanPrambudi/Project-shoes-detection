@@ -1,0 +1,5 @@
+classes= 2
+train  = /content/Project-shoes-detection/train.txt
+valid  = /content/Project-shoes-detection/valid.txt
+names = /content/Project-shoes-detection/obj.names
+backup = backup/
